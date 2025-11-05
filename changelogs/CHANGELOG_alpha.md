@@ -1,3 +1,10 @@
+# [8.4.0-alpha.1](https://github.com/parse-community/parse-server/compare/8.3.1-alpha.1...8.4.0-alpha.1) (2025-11-05)
+
+
+### Features
+
+* Add support for Node 24 ([#9901](https://github.com/parse-community/parse-server/issues/9901)) ([25dfe19](https://github.com/parse-community/parse-server/commit/25dfe19fef02fd44224e4a6d198584a694a1aa52))
+
 ## [8.3.1-alpha.1](https://github.com/parse-community/parse-server/compare/8.3.0...8.3.1-alpha.1) (2025-11-05)
 
 

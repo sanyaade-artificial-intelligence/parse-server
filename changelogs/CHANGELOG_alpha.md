@@ -1,3 +1,10 @@
+# [8.5.0-alpha.6](https://github.com/parse-community/parse-server/compare/8.5.0-alpha.5...8.5.0-alpha.6) (2025-11-08)
+
+
+### Bug Fixes
+
+* `GridFSBucketAdapter` throws when using some Parse Server specific options in MongoDB database options ([#9915](https://github.com/parse-community/parse-server/issues/9915)) ([d3d4003](https://github.com/parse-community/parse-server/commit/d3d4003570b9872f2b0f5a25fc06ce4c4132860d))
+
 # [8.5.0-alpha.5](https://github.com/parse-community/parse-server/compare/8.5.0-alpha.4...8.5.0-alpha.5) (2025-11-08)
 
 

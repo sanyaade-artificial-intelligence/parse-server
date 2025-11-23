@@ -1,3 +1,10 @@
+# [8.5.0-alpha.14](https://github.com/parse-community/parse-server/compare/8.5.0-alpha.13...8.5.0-alpha.14) (2025-11-23)
+
+
+### Bug Fixes
+
+* Parse Server option `rateLimit.zone` does not use default value `ip` ([#9941](https://github.com/parse-community/parse-server/issues/9941)) ([12beb8f](https://github.com/parse-community/parse-server/commit/12beb8f6ee5d3002fec017bb4525eb3f1375f806))
+
 # [8.5.0-alpha.13](https://github.com/parse-community/parse-server/compare/8.5.0-alpha.12...8.5.0-alpha.13) (2025-11-23)
 
 

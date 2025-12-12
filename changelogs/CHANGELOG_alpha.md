@@ -1,3 +1,15 @@
+# [9.0.0-alpha.7](https://github.com/parse-community/parse-server/compare/9.0.0-alpha.6...9.0.0-alpha.7) (2025-12-12)
+
+
+### Features
+
+* Deprecation DEPPS10: Encode `Parse.Object` in Cloud Function and remove option `encodeParseObjectInCloudFunction` ([#9973](https://github.com/parse-community/parse-server/issues/9973)) ([a2d3dbe](https://github.com/parse-community/parse-server/commit/a2d3dbe972e2e02ac599bfffe1ae6cd9768b02ca))
+
+
+### BREAKING CHANGES
+
+* This release encodes `Parse.Object` in Cloud Function and removes option `encodeParseObjectInCloudFunction` (Deprecation DEPPS10). ([a2d3dbe](a2d3dbe))
+
 # [9.0.0-alpha.6](https://github.com/parse-community/parse-server/compare/9.0.0-alpha.5...9.0.0-alpha.6) (2025-12-12)
 
 

@@ -1,3 +1,15 @@
+# [9.0.0-alpha.8](https://github.com/parse-community/parse-server/compare/9.0.0-alpha.7...9.0.0-alpha.8) (2025-12-12)
+
+
+### Features
+
+* Deprecation DEPPS11: Replace `PublicAPIRouter` with `PagesRouter` ([#9974](https://github.com/parse-community/parse-server/issues/9974)) ([8f877d4](https://github.com/parse-community/parse-server/commit/8f877d42c02a6492b97c61e75ab77a896878f866))
+
+
+### BREAKING CHANGES
+
+* This release replaces `PublicAPIRouter` with `PagesRouter` (Deprecation DEPPS11). ([8f877d4](8f877d4))
+
 # [9.0.0-alpha.7](https://github.com/parse-community/parse-server/compare/9.0.0-alpha.6...9.0.0-alpha.7) (2025-12-12)
 
 

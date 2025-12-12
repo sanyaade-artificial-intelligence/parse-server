@@ -1,3 +1,15 @@
+# [9.0.0-alpha.5](https://github.com/parse-community/parse-server/compare/9.0.0-alpha.4...9.0.0-alpha.5) (2025-12-12)
+
+
+### Features
+
+* Update route patterns to use path-to-regexp v8 syntax ([#9942](https://github.com/parse-community/parse-server/issues/9942)) ([fa8723b](https://github.com/parse-community/parse-server/commit/fa8723b3d1e895602d1187540818bbdb446259ba))
+
+
+### BREAKING CHANGES
+
+* Route pattern syntax across cloud routes and rate-limiting now use the new path-to-regexp v8 syntax; see the [migration guide](https://github.com/parse-community/parse-server/blob/alpha/9.0.0.md) for more details. ([fa8723b](fa8723b))
+
 # [9.0.0-alpha.4](https://github.com/parse-community/parse-server/compare/9.0.0-alpha.3...9.0.0-alpha.4) (2025-12-12)
 
 

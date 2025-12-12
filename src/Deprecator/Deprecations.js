@@ -17,5 +17,4 @@
  */
 module.exports = [
   { optionKey: 'enableInsecureAuthAdapters', changeNewDefault: 'false' },
-  { optionKey: 'databaseOptions.allowPublicExplain', changeNewDefault: 'false' },
 ];

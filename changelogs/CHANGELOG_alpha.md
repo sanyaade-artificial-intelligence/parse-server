@@ -1,3 +1,15 @@
+# [9.0.0-alpha.9](https://github.com/parse-community/parse-server/compare/9.0.0-alpha.8...9.0.0-alpha.9) (2025-12-12)
+
+
+### Features
+
+* Deprecation DEPPS12: Database option `allowPublicExplain` defaults to `false` ([#9975](https://github.com/parse-community/parse-server/issues/9975)) ([c1c7e69](https://github.com/parse-community/parse-server/commit/c1c7e6976d868ccbc7dff325edce78ddfa999bb9))
+
+
+### BREAKING CHANGES
+
+* This release changes the MongoDB database option `allowPublicExplain` default to `false` (Deprecation DEPPS12). ([c1c7e69](c1c7e69))
+
 # [9.0.0-alpha.8](https://github.com/parse-community/parse-server/compare/9.0.0-alpha.7...9.0.0-alpha.8) (2025-12-12)
 
 

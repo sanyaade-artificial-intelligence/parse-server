@@ -1,3 +1,10 @@
+# [9.1.0-alpha.3](https://github.com/parse-community/parse-server/compare/9.1.0-alpha.2...9.1.0-alpha.3) (2025-12-14)
+
+
+### Bug Fixes
+
+* Cross-Site Scripting (XSS) via HTML pages for password reset and email verification [GHSA-jhgf-2h8h-ggxv](https://github.com/parse-community/parse-server/security/advisories/GHSA-jhgf-2h8h-ggxv) ([#9985](https://github.com/parse-community/parse-server/issues/9985)) ([3074eb7](https://github.com/parse-community/parse-server/commit/3074eb70f5b58bf72b528ae7b7804ed2d90455ce))
+
 # [9.1.0-alpha.2](https://github.com/parse-community/parse-server/compare/9.1.0-alpha.1...9.1.0-alpha.2) (2025-12-14)
 
 
